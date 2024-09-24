@@ -28,6 +28,7 @@ The output includes:
 - The GPA on a 4.0 scale.
 
 ![StudentGradeTracker Output](images/Screenshot2.png)
+"C:\Users\Kishan Joshi\OneDrive\Pictures\Screenshots\Screenshot 2024-09-24 000802.png"
 
 
 ### Example Output:
