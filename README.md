@@ -26,7 +26,7 @@ The output includes:
 - The calculated average grade.
 - The corresponding letter grade (A, B, C, D, or F).
 - The GPA on a 4.0 scale.
-![StudentGradeTracker Output](images/Screenshot2.png)
+images/Screenshot2.png
 
 
 
